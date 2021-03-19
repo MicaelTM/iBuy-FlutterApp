@@ -1,0 +1,125 @@
+{
+  "validators" : "Required field.",
+  "validators_1" : "Enter a valid email address.",
+
+
+  "loader_toast" : "Check your internet connection.",
+
+
+  "streamBuilder_if_none" : "Oops, something went wrong. Please, try again later.",
+  "streamBuilder_if_noData_createAd" : "You didn't create an announcement yet, just do it!",
+  "streamBuilder_if_noData_homepage" : "There are no announcements to display here yet.",
+  "streamBuilder_if_noData_chosenCat" : "There are no announcements to display in this category yet.",
+
+
+  "category_text_1" : "Agriculture",
+  "category_text_2" : "Pets",
+  "category_text_3" : "Baby & Child",
+  "category_text_4" : "Vehicles",
+  "category_text_5" : "Sport",
+  "category_text_6" : "Job",
+  "category_text_7" : "Tools",
+  "category_text_8" : "Properties",
+  "category_text_9" : "Leisure",
+  "category_text_10" : "Fashion",
+  "category_text_11" : "Furniture & Garden",
+  "category_text_12" : "Services",
+  "category_text_13" : "Technology",
+  "category_text_14" : "Mobile Phones",
+  "category_text_15" : "Others",
+
+
+  "login_main_text" : "Login",
+  "login_email_text" : "Email",
+  "login_password_text" : "Password",
+  "login_btnToast_loginEmail" : "Incorrect email or password.",
+  "login_btn_loginEmail" : "Login with email",
+  "login_btn_loginFacebook" : "Login with facebook",
+  "login_withoutAccount" : "Don't have an account?",
+  "login_btn_SignUp" : "Create account",
+
+
+  "register_main_text" : "Register",
+  "register_first_name" : "First name",
+  "register_last_name" : "Last name",
+  "register_email" : "Email",
+  "register_password" : "Password",
+  "register_password_warning" : "Your password must contain at least 8 characters, a capital letter, a lower case letter, a number and a special character.",
+  "register_password_confirmation" : "Confirm password",
+  "register_textSpan_1" : "By registering in this application you agree with our ",
+  "register_textSpan_2" : "privacy policies ",
+  "register_textSpan_3" : "and ",
+  "register_textSpan_4" : "terms of use",
+  "register_textSpan_5" : ".",
+  "register_passwords_match" : "The passwords don't match!",
+  "register_email_exists" : "This email is already registered.",
+  "register_confirmation" : "Confirm registration",
+
+
+  "homepage_main_text" : "Hi ",
+  "homepage_announcements_from" : "From: ",
+  "homepage_announcements_localization" : "Localization: ",
+
+
+  "accountPage_popUp" : "Are you sure you want to log out?",
+  "accountPage_main_text" : "My account",
+  "accountPage_profile_text" : "Profile",
+  "accountPage_announcements_text" : "Announcements",
+  "accountPage_settings_text" : "Settings",
+  "accountPage_logOut_text" : "Log out",
+
+
+  "profile_main_text" : "Profile",
+  "profile_first_name" : "First name",
+  "profile_last_name" : "Last name",
+  "profile_email" : "Email",
+  "profile_btn_edit" : "Edit profile",
+  "profile_btn_change_password" : "Change password",
+
+
+  "profileEdit_main_text" : "Edit profile",
+  "profileEdit_first_name" : "First name",
+  "profileEdit_last_name" : "Last name",
+  "profileEdit_btn_cancel" : "Cancel",
+  "profileEdit_toast_success" : "Successfully saved.",
+  "profileEdit_btn_save" : "Save",
+
+
+  "profileChangePssw_main_text" : "Change password",
+  "profileChangePssw_new_password" : "New password",
+  "profileChangePssw_password_warning" : "Your password must contain at least 8 characters, a capital letter, a lower case letter, a number and a special character.",
+  "profileChangePssw_confirm_password" : "Confirm password",
+  "profileChangePssw_btn_cancel" : "Cancel",
+  "profileChangePssw_passwords_match" : "The passwords don't match!",
+  "profileChangePssw_same_password_as_old" : "Your new password cannot be the same as your old password.",
+  "profileChangePssw_toast_success" : "Successfully changed.",
+  "profileChangePssw_btn_save" : "Save",
+
+
+  "infoPage_main_text" : "Information",
+
+
+  "createAnnouncements_main_text" : "My announcements",
+  "createAnnouncements_newAnnouncement_text" : "New announcement",
+  "createAnnouncements_newAnnouncement_images" : "Load image",
+  "createAnnouncements_newAnnouncement_title" : "Title",
+  "createAnnouncements_newAnnouncement_category" : "Category",
+  "createAnnouncements_newAnnouncement_description" : "Description",
+  "createAnnouncements_newAnnouncement_localization" : "Localization",
+  "createAnnouncements_newAnnouncement_price" : "Price",
+  "createAnnouncements_newAnnouncement_deleteAd" : "Are you sure you want to delete this announcement?",
+  "createAnnouncements_editAnnouncement_text" : "Edit announcement",
+  "createAnnouncements_editAnnouncement_images" : "Load new image",
+  "createAnnouncements_category" : "Category: ",
+  "createAnnouncements_localization" : "Localization: ",
+
+
+  "homepageChosenCategory_from" : "From: ",
+  "homepageChosenCategory_localization" : "Localization: ",
+
+
+  "announcementDetails_category" : "Category: ",
+  "announcementDetails_description" : "Description: ",
+  "announcementDetails_contact" : "Contact: ",
+  "announcementDetails_localization" : "Localization: "
+}

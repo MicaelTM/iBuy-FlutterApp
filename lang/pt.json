@@ -1,0 +1,125 @@
+{
+ "validators" : "Campo obrigatório.",
+ "validators_1" : "Insira um endereço de email válido.",
+
+
+ "loader_toast" : "Verifique a sua conexão à internet.",
+
+
+ "streamBuilder_if_none" : "Ups, algo deu errado. Por favor, tente novamente mais tarde.",
+ "streamBuilder_if_noData_createAd" : "Ainda não criaste nenhum anúncio, cria um agora.",
+ "streamBuilder_if_noData_homepage" : "Ainda não existem anúncios para apresentar aqui.",
+ "streamBuilder_if_noData_chosenCat" : "Ainda não existem anúncios para apresentar nesta categoria.",
+
+
+ "category_text_1" : "Agricultura",
+ "category_text_2" : "Animais",
+ "category_text_3" : "Bebé e Criança",
+ "category_text_4" : "Veículos",
+ "category_text_5" : "Desporto",
+ "category_text_6" : "Emprego",
+ "category_text_7" : "Ferramentas",
+ "category_text_8" : "Imóveis",
+ "category_text_9" : "Lazer",
+ "category_text_10" : "Moda",
+ "category_text_11" : "Móveis e Jardim",
+ "category_text_12" : "Serviços",
+ "category_text_13" : "Tecnologia",
+ "category_text_14" : "Telemóveis",
+ "category_text_15" : "Outras Vendas",
+
+
+ "login_main_text" : "Iniciar Sessão",
+ "login_email_text" : "Email",
+ "login_password_text" : "Palavra-passe",
+ "login_btnToast_loginEmail" : "Email ou palavra-passe incorretos.",
+ "login_btn_loginEmail" : "Entrar com email",
+ "login_btn_loginFacebook" : "Entrar com facebook",
+ "login_withoutAccount" : "Não tem conta?",
+ "login_btn_SignUp" : "Criar conta",
+
+
+ "register_main_text" : "Regista-te",
+ "register_first_name" : "Primeiro nome",
+ "register_last_name" : "Último nome",
+ "register_email" : "Email",
+ "register_password" : "Palavra-passe",
+ "register_password_warning" : "A sua palavra-passe tem de contêr pelo menos 8 caractéres, uma letra maiúscula, uma letra minuscula, um número e um caractér especial.",
+ "register_password_confirmation" : "Confirmar palavra-passe",
+ "register_textSpan_1" : "Ao registar-se nesta aplicação concorda com as nossas ",
+ "register_textSpan_2" : "políticas de privacidade ",
+ "register_textSpan_3" : "e ",
+ "register_textSpan_4" : "termos de utilização",
+ "register_textSpan_5" : ".",
+ "register_passwords_match" : "As palavras-passe não coincidem!",
+ "register_email_exists" : "Este email já se encontra registado.",
+ "register_confirmation" : "Confirmar registo",
+
+
+ "homepage_main_text" : "Olá ",
+ "homepage_announcements_from" : "De: ",
+ "homepage_announcements_localization" : "Localização: ",
+
+
+ "accountPage_popUp" : "Tem a certeza que deseja terminar sessão?",
+ "accountPage_main_text" : "A minha conta",
+ "accountPage_profile_text" : "Perfil",
+ "accountPage_announcements_text" : "Anúncios",
+ "accountPage_settings_text" : "Definições",
+ "accountPage_logOut_text" : "Terminar sessão",
+
+
+ "profile_main_text" : "Perfil",
+ "profile_first_name" : "Primeiro nome",
+ "profile_last_name" : "Último nome",
+ "profile_email" : "Email",
+ "profile_btn_edit" : "Editar perfil",
+ "profile_btn_change_password" : "Alterar palavra-passe",
+
+
+ "profileEdit_main_text" : "Editar perfil",
+ "profileEdit_first_name" : "Primeiro nome",
+ "profileEdit_last_name" : "Último nome",
+ "profileEdit_btn_cancel" : "Cancelar",
+ "profileEdit_toast_success" : "Guardado com sucesso.",
+ "profileEdit_btn_save" : "Guardar",
+
+
+ "profileChangePssw_main_text" : "Alterar palavra-passe",
+ "profileChangePssw_new_password" : "Nova palavra-passe",
+ "profileChangePssw_password_warning" : "A sua palavra-passe tem de contêr pelo menos 8 caractéres, uma letra maiúscula, uma letra minuscula, um número e um caractér especial.",
+ "profileChangePssw_confirm_password" : "Confirmar palavra-passe",
+ "profileChangePssw_btn_cancel" : "Cancelar",
+ "profileChangePssw_passwords_match" : "As palavras-passe não coincidem!",
+ "profileChangePssw_same_password_as_old" : "A sua palavra-passe nova não pode ser igual à palavra-passe antiga.",
+ "profileChangePssw_toast_success" : "Alterada com sucesso.",
+ "profileChangePssw_btn_save" : "Guardar",
+
+
+ "infoPage_main_text" : "Informação",
+
+
+ "createAnnouncements_main_text" : "Os meus anúncios",
+ "createAnnouncements_newAnnouncement_text" : "Novo anúncio",
+ "createAnnouncements_newAnnouncement_images" : "Carregar imagem",
+ "createAnnouncements_newAnnouncement_title" : "Título",
+ "createAnnouncements_newAnnouncement_category" : "Categoria",
+ "createAnnouncements_newAnnouncement_description" : "Descrição",
+ "createAnnouncements_newAnnouncement_localization" : "Localização",
+ "createAnnouncements_newAnnouncement_price" : "Preço",
+ "createAnnouncements_newAnnouncement_deleteAd" : "Tem a certeza que deseja eliminar este anúncio?",
+ "createAnnouncements_editAnnouncement_text" : "Editar anúncio",
+ "createAnnouncements_editAnnouncement_images" : "Carregar nova imagem",
+ "createAnnouncements_category" : "Categoria: ",
+ "createAnnouncements_localization" : "Localização: ",
+
+
+ "homepageChosenCategory_from" : "De: ",
+ "homepageChosenCategory_localization" : "Localização: ",
+
+
+ "announcementDetails_category" : "Categoria: ",
+ "announcementDetails_description" : "Descrição: ",
+ "announcementDetails_contact" : "Contato: ",
+ "announcementDetails_localization" : "Localização: "
+}
