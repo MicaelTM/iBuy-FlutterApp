@@ -34,9 +34,31 @@ class _infoPageState extends State<infoPage> {
           body: Stack(
             alignment: Alignment.center,
             children: [
-              Positioned(
-                top: 7.0.h,
-                child: Text(AppLocalizations.of(context).translate('infoPage_main_text'), style: TextStyle(fontSize: 16.8.sp, color: Colors.white, fontWeight: FontWeight.bold, fontFamily: 'Comfortaa')),
+              Container(
+                width: 100.0.w,
+                height: 100.0.h,
+                child: SingleChildScrollView(
+                  child: Column(
+                    children: [
+                      Container(
+                        margin: EdgeInsets.only(top: 7.2.h),
+                        child: Text(AppLocalizations.of(context).translate('infoPage_main_text'), style: TextStyle(fontSize: 16.8.sp, color: Colors.white, fontWeight: FontWeight.bold, fontFamily: 'Comfortaa')),
+                      ),
+                      Container(
+                        width: 100.0.w,
+                        margin: EdgeInsets.all(5.0.h),
+                        decoration: BoxDecoration(
+                          color: Colors.black12,
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: Padding (
+                          padding: EdgeInsets.only(top: 2.0.h, bottom: 2.0.h, left: 2.0.h, right: 2.0.h),
+                          child: Text(AppLocalizations.of(context).translate('infoPage_appBy'), style: TextStyle(fontSize: 11.2.sp, color: Colors.black38, fontWeight: FontWeight.bold, fontFamily: 'Comfortaa'), textAlign: TextAlign.center),
+                        ),
+                      ),
+                    ]
+                  ),
+                ),
               ),
               Positioned(
                 left: 0,

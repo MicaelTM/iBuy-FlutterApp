@@ -857,8 +857,9 @@ class _createAnnouncementsState extends State<createAnnouncements> {
                             top: 1.0.h,
                             right: 1.0.h,
                             child: Container(
-                              height: 5.5.h,
-                              width: 5.5.h,
+                              height: 5.1.h,
+                              width: 5.1.h,
+                              alignment: Alignment.topRight,
                               decoration: BoxDecoration(
                                 color: Colors.white.withOpacity(0.7),
                                 borderRadius: BorderRadius.circular(100),
@@ -875,8 +876,9 @@ class _createAnnouncementsState extends State<createAnnouncements> {
                             top: 1.0.h,
                             left: 1.0.h,
                             child: Container(
-                              height: 5.5.h,
-                              width: 5.5.h,
+                              height: 5.1.h,
+                              width: 5.1.h,
+                              alignment: Alignment.topRight,
                               decoration: BoxDecoration(
                                 color: Colors.white.withOpacity(0.7),
                                 borderRadius: BorderRadius.circular(100),

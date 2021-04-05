@@ -121,5 +121,8 @@
   "announcementDetails_category" : "Category: ",
   "announcementDetails_description" : "Description: ",
   "announcementDetails_contact" : "Contact: ",
-  "announcementDetails_localization" : "Localization: "
+  "announcementDetails_localization" : "Localization: ",
+
+
+  "infoPage_appBy" : "App made by Micael Machado"
 }
